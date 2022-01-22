@@ -1,11 +1,11 @@
 #include "sort.h"
 
 /**
-  * bubble_sort - sort algorithm
-  *
-  * @array: array
-  * @size: size of the array
-  */
+ * bubble_sort - sort algorithm
+ *
+ * @array: array
+ * @size: size of the array
+ */
 
 void bubble_sort(int *array, size_t size)
 {
