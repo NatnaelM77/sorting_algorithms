@@ -16,6 +16,7 @@ int partition(int *a, int l, int h)
 
 	if (k == 0)
 		size = h + 1, k++;
+
 	p = a[h];
 	i = l;
 	for (j = l; j < h; j++)
