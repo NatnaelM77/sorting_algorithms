@@ -2,7 +2,7 @@
 
 /**
  * selection_sort - selection sort algorithm
- * 
+ *
  * @array: array to sort
  * @size: size of the array;
  */
